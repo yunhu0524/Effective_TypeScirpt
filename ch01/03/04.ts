@@ -1,4 +1,7 @@
-class Square {
+class Square { 
+  // class는 자바스크립트에서 실제 선언된 값이면서
+  // 인터페이스 처럼 타입으로서도 존재 가능
+  // class 이면서 type 이기도 하다
   constructor(public width: number) {}
 }
 class Rectangle extends Square {
