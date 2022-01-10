@@ -8,7 +8,7 @@
 
 * 책과 TypeScript 공식 Documentation을 기반으로 학습하며 기록한다.
 * 학습한 것을 작성하면서 Reference는 꼭 남긴다.
-* 기간은 4주를 넘기지 않는다. (21.12.11 - 21.01.13)
+
 
 ### TypeScript 정리 기록 
 
